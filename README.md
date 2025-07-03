@@ -26,7 +26,7 @@ I'm passionate about using code to solve real-world problems, especially when it
 
 ## 🚀 Current Projects
 
-**🎛️ DIY Quad Cortex**: Converting an old gaming laptop into an all-in-one live guitar processing solution with analog controls, e-ink display, and foot switches - because great tone shouldn't cost $2000.
+**🎛️ DIY Quad Cortex**: Converting an old gaming laptop into an all-in-one live guitar processing solution with analog controls, e-ink display, and foot switches - because great tone doesn't need to cost $2000.
 
 **🎵 Live Sample Player**: Raspberry Pi + Xbox 360 controller system for triggering band intros and 808 drops during live shows. Built this because we needed it and commercial solutions were overpriced.
 
